@@ -61,10 +61,10 @@ public class Main {
 //	    <以下記述>
         List<Integer> list = Arrays.asList(arrayDate);
 //      問⑨ 上記で格納した要素を繰り返しで出力しましょう。
+//	    <以下記述>
         for(int i = 0; i < list.size(); i++) {
         	System.out.println(list.get(i));
         }
-//	    <以下記述>
 
 	}
 }
